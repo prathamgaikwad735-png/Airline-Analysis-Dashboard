@@ -2,7 +2,8 @@
 
 An interactive Excel dashboard built on Indian domestic airline data, allowing users to filter and analyze flight pricing, timing, and stop patterns across airlines, routes, and travel class.
 
-![Dashboard Overview](images/dashboard_overview.png)
+# Dataset Used 
+- <a href="https://github.com/prathamgaikwad735-png/Airline-Analysis-Dashboard/blob/main/Indian%20Airlines26.xlsx">Dataset & Dashboard<a/>
 
 ---
 
@@ -26,6 +27,10 @@ This dashboard is designed to answer the following business questions:
 - **Flight Volume:** Which airlines and routes have the highest number of departures/arrivals?
 - **Stops:** Do zero-stop, one-stop, or two-plus-stop flights dominate the market, and how does that affect price?
 - **Class-wise Behavior:** How does flight availability, airline presence, and pricing differ between **Business** and **Economy** class?
+
+# Dashboard Overview
+<img width="1362" height="710" alt="01_overview" src="https://github.com/user-attachments/assets/6cf0d916-e098-40c7-bbfd-5e9704f53a46" />
+
 
 ---
 
