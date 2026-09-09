@@ -5,6 +5,9 @@ An interactive Excel dashboard built on Indian domestic airline data, allowing u
 # Dataset Used 
 - <a href="https://github.com/prathamgaikwad735-png/Airline-Analysis-Dashboard/blob/main/Indian%20Airlines26.xlsx">Dataset & Dashboard<a/>
 
+# Presentation 
+- <a href="https://github.com/prathamgaikwad735-png/Airline-Analysis-Dashboard/blob/main/Airline_Analysis_Dashboard.pdf">Dashboard presentation<a/a>
+
 ---
 
 ## 📑 Table of Contents
