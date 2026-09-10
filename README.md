@@ -1,4 +1,4 @@
-# ✈️ Airline Analysis Dashboard
+#  Airline Analysis Dashboard
 
 An interactive Excel dashboard built on Indian domestic airline data, allowing users to filter and analyze flight pricing, timing, and stop patterns across airlines, routes, and travel class.
 
@@ -10,7 +10,7 @@ An interactive Excel dashboard built on Indian domestic airline data, allowing u
 
 ---
 
-## 📑 Table of Contents
+##  Table of Contents
 
 - [Key Business Questions (KPIs)](#-key-business-questions-kpis)
 - [Process & Methodology](#-process--methodology)
@@ -20,7 +20,7 @@ An interactive Excel dashboard built on Indian domestic airline data, allowing u
 
 ---
 
-## 🎯 Key Business Questions (KPIs)
+##  Key Business Questions (KPIs)
 
 This dashboard is designed to answer the following business questions:
 
@@ -37,7 +37,7 @@ This dashboard is designed to answer the following business questions:
 
 ---
 
-## 🔄 Process & Methodology
+##  Process & Methodology
 
 1. **Data Collection**
    - Sourced raw Indian domestic airline flight data (airline, source/destination city, class, price, duration, stops, departure/arrival time, days left before departure).
@@ -72,7 +72,7 @@ This dashboard is designed to answer the following business questions:
 
 ---
 
-## 📊 Dashboard Overview
+##  Dashboard Overview
 
 The dashboard consists of:
 
@@ -118,6 +118,6 @@ The dashboard consists of:
 
 ---
 
-## ✅ Conclusion
+##  Conclusion
 
 The Airline Analysis Dashboard reveals that airline pricing is heavily influenced by **how close the booking date is to departure**, with sharp price increases typically occurring within the final 1–5 days rather than a gradual daily rise. **Vistara commands a consistent price premium over Air India** in Business Class, while in Economy, pricing leadership shifts route-by-route among Air India, SpiceJet, and GO_FIRST. Across nearly all routes and classes, **zero-stop flights are the most common choice**, indicating strong traveler preference for direct connections. These insights can help travelers identify optimal booking windows and help airlines/analysts benchmark competitive pricing strategies by route and class.
