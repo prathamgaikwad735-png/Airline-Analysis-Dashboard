@@ -90,7 +90,7 @@ The dashboard consists of:
 
 ---
 
-## 💡 Insights
+##  Insights
 
 ### Business Class
 - Only **Air India** and **Vistara** operate Business Class flights across all routes.
